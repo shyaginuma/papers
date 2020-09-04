@@ -1,6 +1,6 @@
 # papers
 
-read papers and summaries
+Summaries of papers I read
 inspired by https://github.com/upura/papers
 
 ## themes
