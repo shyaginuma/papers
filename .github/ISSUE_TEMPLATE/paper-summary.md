@@ -1,7 +1,7 @@
 ---
 name: Paper Summary
 about: 論文のサマリをまとめるテンプレート
-title: Title
+title: ''
 labels: ''
 assignees: shyaginuma
 
@@ -9,10 +9,10 @@ assignees: shyaginuma
 
 ## Meta
  
-* Link:  
-* Author:  
+* Link: 
+* Author: 
 * Date: 
-* Journal
+* Journal: 
 
 ## どんなもの？（著者は何をやりたかったの？）
 
