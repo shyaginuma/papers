@@ -14,7 +14,12 @@ assignees: shyaginuma
 * Date: 
 * Journal: 
 
-## どんなもの？（著者は何をやりたかったの？）
+## Motivation
+<!-- この文献に何を期待しているのか -->
+
+
+## Summary
+<!-- どんなものか、著者がやりたかったものは何か -->
 
 
 ## 先行研究と比べてどこがすごい？
@@ -30,3 +35,4 @@ assignees: shyaginuma
 
 
 ## 次に読むべき論文はなに？
+
